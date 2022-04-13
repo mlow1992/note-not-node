@@ -1,6 +1,9 @@
 # Not-Not-Node
 
 ## Purpose
+Use node.js and express.js to build a backend database to handle dynamic note-taking on the front end.
+
+## Built With
 - HTML
 - CSS
 - JavaScript
